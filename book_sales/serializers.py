@@ -7,6 +7,8 @@ class BookSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 class BookSaleSerializer(serializers.ModelSerializer):
+    book = BookSerializer(read_only=True)
+
     class Meta:
         model = BookSale
         fields = "__all__"
