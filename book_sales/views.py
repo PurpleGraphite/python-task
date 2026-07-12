@@ -53,3 +53,19 @@ class BookSaleSalesTrendView(APIView):
         return Response(data)
 
 
+
+class BookSaleSearchView(APIView):
+
+    def get(self, request):
+
+        query = request.query_params.get("q", "").strip()
+
+        queryset = search_book_sales(query)
+
+        serializer = BookSaleSerializer(
+            queryset,
+            many=True,
+        )
+
+        return Response(serializer.data)
+
