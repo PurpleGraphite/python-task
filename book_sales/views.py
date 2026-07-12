@@ -1,15 +1,21 @@
 from django.views.generic import TemplateView
 from rest_framework.views import APIView
+from rest_framework.response import Response
+
 from rest_framework.generics import (
     ListCreateAPIView,
     DestroyAPIView,
 )
+
 from .models import BookSale, Book
 from .serializers import BookSaleSerializer, BookSerializer
 from .services import search_book_sales, get_sales_trends
 
+
 class BookSalesDashboardView(TemplateView):
     template_name = "book_sales/book_sales.html"
+
+
 class BookListCreateView(ListCreateAPIView):
     queryset = Book.objects.all()
     serializer_class = BookSerializer
@@ -24,6 +30,7 @@ class BookSaleListCreateView(ListCreateAPIView):
     )
 
     serializer_class = BookSaleSerializer
+    
 
 class BookSaleSalesTrendView(APIView):
 
@@ -53,6 +60,11 @@ class BookSaleSalesTrendView(APIView):
         return Response(data)
 
 
+
+class BookSaleDestroyView(DestroyAPIView):
+    queryset = BookSale.objects.all()
+
+    serializer_class = BookSaleSerializer
 
 class BookSaleSearchView(APIView):
 
