@@ -1,8 +1,13 @@
 from django.views.generic import TemplateView
+from rest_framework.views import APIView
 from rest_framework.generics import (
     ListCreateAPIView,
     DestroyAPIView,
 )
+from .models import BookSale, Book
+from .serializers import BookSaleSerializer, BookSerializer
+from .services import search_book_sales, get_sales_trends
+
 class BookSalesDashboardView(TemplateView):
     template_name = "book_sales/book_sales.html"
 class BookListCreateView(ListCreateAPIView):
@@ -19,4 +24,32 @@ class BookSaleListCreateView(ListCreateAPIView):
     )
 
     serializer_class = BookSaleSerializer
-    
+
+class BookSaleSalesTrendView(APIView):
+
+    def get(self, request):
+
+        book_id = request.query_params.get("book_id")
+
+        if not book_id:
+            return Response(
+                {"detail": "book_id query parameter is required."},
+                status=400,
+            )
+
+        trends = get_sales_trends(book_id)
+
+        data = []
+
+        for row in trends:
+
+            data.append(
+                {
+                    "month": row["month"],
+                    "quantity": row["quantity"],
+                }
+            )
+
+        return Response(data)
+
+
