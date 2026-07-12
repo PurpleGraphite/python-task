@@ -1,0 +1,160 @@
+{% load static %}
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+
+		<title>Book Sales Dashboard</title>
+
+		<link
+			rel="stylesheet"
+			href="{% static 'book_sales/css/styles.css' %}"
+		/>
+
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	</head>
+
+	<body>
+		<div class="dashboard-container">
+			<!-- Page Header -->
+
+			<header class="dashboard-header">
+				<h1>Book Sales Dashboard</h1>
+
+				<p>
+					Search book sales and view monthly sales
+					analytics.
+				</p>
+			</header>
+
+			<!-- Navigation Tabs -->
+
+			<main>
+				<nav class="dashboard-tabs">
+					<button
+						id="sales-tab-button"
+						class="tab-button active"
+						type="button"
+					>
+						Sales
+					</button>
+
+					<button
+						id="analytics-tab-button"
+						class="tab-button"
+						type="button"
+					>
+						Analytics
+					</button>
+				</nav>
+
+				<!-- Sales Section -->
+
+				<section id="sales-section" class="dashboard-section">
+					<!-- Search -->
+
+					<section class="search-section">
+						<h2>Search Book Sales</h2>
+
+						<form id="search-form">
+							<input
+								id="search-input"
+								type="text"
+								placeholder="Search by book title or author"
+								autocomplete="off"
+							/>
+
+							<button type="submit">Search</button>
+						</form>
+					</section>
+
+					<!-- Table -->
+
+					<section class="table-section">
+						<h2>Book Sales</h2>
+
+						<table id="sales-table">
+							<thead>
+								<tr>
+									<th>ID</th>
+
+									<th>Book</th>
+
+									<th>Author</th>
+
+									<th>Sale Date</th>
+
+									<th>Quantity</th>
+								</tr>
+							</thead>
+
+							<tbody id="sales-table-body">
+								<!-- Populated using JavaScript -->
+							</tbody>
+						</table>
+					</section>
+
+					<!-- Pagination -->
+
+					<section class="pagination-section">
+						<button
+							id="previous-page-button"
+							type="button"
+						>
+							Previous
+						</button>
+
+						<span id="page-indicator"> Page 1 </span>
+
+						<button id="next-page-button" type="button">
+							Next
+						</button>
+					</section>
+				</section>
+
+				<!-- Analytics Section -->
+
+				<section
+					id="analytics-section"
+					class="dashboard-section hidden"
+				>
+					<header class="analytics-header">
+						<h2>Sales Analytics</h2>
+
+						<div class="book-search-container">
+							<div class="book-search">
+								<input
+									type="text"
+									id="book-search-input"
+									placeholder="Search for a book..."
+									autocomplete="off"
+								/>
+
+								<div
+									id="book-search-results"
+									class="book-search-results hidden"
+								></div>
+							</div>
+							<button>Search</button>
+						</div>
+					</header>
+
+					<!-- Chart -->
+
+					<section class="chart-section">
+						<div class="chart-container">
+							<canvas id="sales-trend-chart"></canvas>
+						</div>
+					</section>
+				</section>
+			</main>
+		</div>
+
+		<script src="{% static 'book_sales/js/app.js' %}"></script>
+	</body>
+</html>
