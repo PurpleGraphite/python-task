@@ -10,3 +10,13 @@ class BookListCreateView(ListCreateAPIView):
     serializer_class = BookSerializer
 
     pagination_class = None
+
+class BookSaleListCreateView(ListCreateAPIView):
+    queryset = (
+        BookSale.objects
+        .select_related("book")
+        .order_by("-sale_date")
+    )
+
+    serializer_class = BookSaleSerializer
+    
