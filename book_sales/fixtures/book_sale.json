@@ -1,0 +1,6275 @@
+[
+  {
+    "model": "book_sales.booksale",
+    "pk": 1,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-01-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 2,
+    "fields": {
+      "book": 31,
+      "quantity": 5,
+      "sale_date": "2025-01-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 3,
+    "fields": {
+      "book": 2,
+      "quantity": 8,
+      "sale_date": "2025-01-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 4,
+    "fields": {
+      "book": 23,
+      "quantity": 3,
+      "sale_date": "2025-01-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 5,
+    "fields": {
+      "book": 3,
+      "quantity": 13,
+      "sale_date": "2025-01-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 6,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-01-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 7,
+    "fields": {
+      "book": 10,
+      "quantity": 12,
+      "sale_date": "2025-01-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 8,
+    "fields": {
+      "book": 11,
+      "quantity": 11,
+      "sale_date": "2025-01-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 9,
+    "fields": {
+      "book": 36,
+      "quantity": 2,
+      "sale_date": "2025-01-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 10,
+    "fields": {
+      "book": 4,
+      "quantity": 19,
+      "sale_date": "2025-01-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 11,
+    "fields": {
+      "book": 39,
+      "quantity": 2,
+      "sale_date": "2025-01-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 12,
+    "fields": {
+      "book": 45,
+      "quantity": 5,
+      "sale_date": "2025-01-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 13,
+    "fields": {
+      "book": 8,
+      "quantity": 12,
+      "sale_date": "2025-01-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 14,
+    "fields": {
+      "book": 17,
+      "quantity": 10,
+      "sale_date": "2025-01-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 15,
+    "fields": {
+      "book": 8,
+      "quantity": 4,
+      "sale_date": "2025-01-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 16,
+    "fields": {
+      "book": 21,
+      "quantity": 3,
+      "sale_date": "2025-01-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 17,
+    "fields": {
+      "book": 5,
+      "quantity": 13,
+      "sale_date": "2025-01-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 18,
+    "fields": {
+      "book": 5,
+      "quantity": 12,
+      "sale_date": "2025-01-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 19,
+    "fields": {
+      "book": 10,
+      "quantity": 11,
+      "sale_date": "2025-01-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 20,
+    "fields": {
+      "book": 15,
+      "quantity": 11,
+      "sale_date": "2025-01-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 21,
+    "fields": {
+      "book": 16,
+      "quantity": 2,
+      "sale_date": "2025-01-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 22,
+    "fields": {
+      "book": 2,
+      "quantity": 17,
+      "sale_date": "2025-01-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 23,
+    "fields": {
+      "book": 2,
+      "quantity": 17,
+      "sale_date": "2025-01-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 24,
+    "fields": {
+      "book": 25,
+      "quantity": 5,
+      "sale_date": "2025-01-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 25,
+    "fields": {
+      "book": 4,
+      "quantity": 12,
+      "sale_date": "2025-01-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 26,
+    "fields": {
+      "book": 7,
+      "quantity": 7,
+      "sale_date": "2025-01-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 27,
+    "fields": {
+      "book": 15,
+      "quantity": 14,
+      "sale_date": "2025-01-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 28,
+    "fields": {
+      "book": 15,
+      "quantity": 8,
+      "sale_date": "2025-01-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 29,
+    "fields": {
+      "book": 9,
+      "quantity": 9,
+      "sale_date": "2025-01-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 30,
+    "fields": {
+      "book": 13,
+      "quantity": 14,
+      "sale_date": "2025-01-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 31,
+    "fields": {
+      "book": 26,
+      "quantity": 10,
+      "sale_date": "2025-01-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 32,
+    "fields": {
+      "book": 35,
+      "quantity": 3,
+      "sale_date": "2025-01-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 33,
+    "fields": {
+      "book": 37,
+      "quantity": 4,
+      "sale_date": "2025-01-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 34,
+    "fields": {
+      "book": 2,
+      "quantity": 18,
+      "sale_date": "2025-01-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 35,
+    "fields": {
+      "book": 2,
+      "quantity": 14,
+      "sale_date": "2025-01-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 36,
+    "fields": {
+      "book": 26,
+      "quantity": 8,
+      "sale_date": "2025-01-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 37,
+    "fields": {
+      "book": 3,
+      "quantity": 15,
+      "sale_date": "2025-01-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 38,
+    "fields": {
+      "book": 10,
+      "quantity": 10,
+      "sale_date": "2025-01-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 39,
+    "fields": {
+      "book": 3,
+      "quantity": 13,
+      "sale_date": "2025-01-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 40,
+    "fields": {
+      "book": 5,
+      "quantity": 12,
+      "sale_date": "2025-01-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 41,
+    "fields": {
+      "book": 20,
+      "quantity": 10,
+      "sale_date": "2025-01-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 42,
+    "fields": {
+      "book": 23,
+      "quantity": 9,
+      "sale_date": "2025-01-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 43,
+    "fields": {
+      "book": 8,
+      "quantity": 10,
+      "sale_date": "2025-01-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 44,
+    "fields": {
+      "book": 21,
+      "quantity": 5,
+      "sale_date": "2025-01-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 45,
+    "fields": {
+      "book": 17,
+      "quantity": 10,
+      "sale_date": "2025-01-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 46,
+    "fields": {
+      "book": 35,
+      "quantity": 10,
+      "sale_date": "2025-01-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 47,
+    "fields": {
+      "book": 40,
+      "quantity": 1,
+      "sale_date": "2025-01-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 48,
+    "fields": {
+      "book": 4,
+      "quantity": 7,
+      "sale_date": "2025-02-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 49,
+    "fields": {
+      "book": 25,
+      "quantity": 3,
+      "sale_date": "2025-02-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 50,
+    "fields": {
+      "book": 16,
+      "quantity": 6,
+      "sale_date": "2025-02-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 51,
+    "fields": {
+      "book": 3,
+      "quantity": 17,
+      "sale_date": "2025-02-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 52,
+    "fields": {
+      "book": 13,
+      "quantity": 7,
+      "sale_date": "2025-02-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 53,
+    "fields": {
+      "book": 23,
+      "quantity": 5,
+      "sale_date": "2025-02-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 54,
+    "fields": {
+      "book": 2,
+      "quantity": 12,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 55,
+    "fields": {
+      "book": 7,
+      "quantity": 5,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 56,
+    "fields": {
+      "book": 10,
+      "quantity": 10,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 57,
+    "fields": {
+      "book": 27,
+      "quantity": 2,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 58,
+    "fields": {
+      "book": 28,
+      "quantity": 8,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 59,
+    "fields": {
+      "book": 29,
+      "quantity": 4,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 60,
+    "fields": {
+      "book": 32,
+      "quantity": 3,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 61,
+    "fields": {
+      "book": 33,
+      "quantity": 6,
+      "sale_date": "2025-02-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 62,
+    "fields": {
+      "book": 1,
+      "quantity": 10,
+      "sale_date": "2025-02-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 63,
+    "fields": {
+      "book": 1,
+      "quantity": 13,
+      "sale_date": "2025-02-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 64,
+    "fields": {
+      "book": 4,
+      "quantity": 9,
+      "sale_date": "2025-02-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 65,
+    "fields": {
+      "book": 32,
+      "quantity": 8,
+      "sale_date": "2025-02-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 66,
+    "fields": {
+      "book": 3,
+      "quantity": 15,
+      "sale_date": "2025-02-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 67,
+    "fields": {
+      "book": 18,
+      "quantity": 7,
+      "sale_date": "2025-02-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 68,
+    "fields": {
+      "book": 21,
+      "quantity": 2,
+      "sale_date": "2025-02-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 69,
+    "fields": {
+      "book": 21,
+      "quantity": 6,
+      "sale_date": "2025-02-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 70,
+    "fields": {
+      "book": 25,
+      "quantity": 4,
+      "sale_date": "2025-02-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 71,
+    "fields": {
+      "book": 1,
+      "quantity": 18,
+      "sale_date": "2025-02-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 72,
+    "fields": {
+      "book": 12,
+      "quantity": 11,
+      "sale_date": "2025-02-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 73,
+    "fields": {
+      "book": 18,
+      "quantity": 9,
+      "sale_date": "2025-02-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 74,
+    "fields": {
+      "book": 38,
+      "quantity": 4,
+      "sale_date": "2025-02-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 75,
+    "fields": {
+      "book": 4,
+      "quantity": 14,
+      "sale_date": "2025-02-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 76,
+    "fields": {
+      "book": 5,
+      "quantity": 9,
+      "sale_date": "2025-02-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 77,
+    "fields": {
+      "book": 15,
+      "quantity": 11,
+      "sale_date": "2025-02-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 78,
+    "fields": {
+      "book": 22,
+      "quantity": 9,
+      "sale_date": "2025-02-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 79,
+    "fields": {
+      "book": 30,
+      "quantity": 8,
+      "sale_date": "2025-02-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 80,
+    "fields": {
+      "book": 2,
+      "quantity": 11,
+      "sale_date": "2025-02-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 81,
+    "fields": {
+      "book": 5,
+      "quantity": 7,
+      "sale_date": "2025-02-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 82,
+    "fields": {
+      "book": 15,
+      "quantity": 7,
+      "sale_date": "2025-02-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 83,
+    "fields": {
+      "book": 1,
+      "quantity": 15,
+      "sale_date": "2025-02-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 84,
+    "fields": {
+      "book": 13,
+      "quantity": 8,
+      "sale_date": "2025-02-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 85,
+    "fields": {
+      "book": 26,
+      "quantity": 7,
+      "sale_date": "2025-02-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 86,
+    "fields": {
+      "book": 3,
+      "quantity": 8,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 87,
+    "fields": {
+      "book": 3,
+      "quantity": 16,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 88,
+    "fields": {
+      "book": 6,
+      "quantity": 8,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 89,
+    "fields": {
+      "book": 10,
+      "quantity": 9,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 90,
+    "fields": {
+      "book": 20,
+      "quantity": 4,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 91,
+    "fields": {
+      "book": 23,
+      "quantity": 6,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 92,
+    "fields": {
+      "book": 29,
+      "quantity": 6,
+      "sale_date": "2025-02-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 93,
+    "fields": {
+      "book": 8,
+      "quantity": 9,
+      "sale_date": "2025-02-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 94,
+    "fields": {
+      "book": 15,
+      "quantity": 13,
+      "sale_date": "2025-02-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 95,
+    "fields": {
+      "book": 41,
+      "quantity": 4,
+      "sale_date": "2025-02-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 96,
+    "fields": {
+      "book": 39,
+      "quantity": 5,
+      "sale_date": "2025-02-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 97,
+    "fields": {
+      "book": 5,
+      "quantity": 7,
+      "sale_date": "2025-02-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 98,
+    "fields": {
+      "book": 9,
+      "quantity": 4,
+      "sale_date": "2025-02-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 99,
+    "fields": {
+      "book": 2,
+      "quantity": 14,
+      "sale_date": "2025-02-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 100,
+    "fields": {
+      "book": 10,
+      "quantity": 6,
+      "sale_date": "2025-02-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 101,
+    "fields": {
+      "book": 12,
+      "quantity": 8,
+      "sale_date": "2025-02-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 102,
+    "fields": {
+      "book": 30,
+      "quantity": 7,
+      "sale_date": "2025-02-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 103,
+    "fields": {
+      "book": 4,
+      "quantity": 7,
+      "sale_date": "2025-02-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 104,
+    "fields": {
+      "book": 4,
+      "quantity": 15,
+      "sale_date": "2025-03-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 105,
+    "fields": {
+      "book": 10,
+      "quantity": 12,
+      "sale_date": "2025-03-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 106,
+    "fields": {
+      "book": 11,
+      "quantity": 11,
+      "sale_date": "2025-03-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 107,
+    "fields": {
+      "book": 25,
+      "quantity": 6,
+      "sale_date": "2025-03-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 108,
+    "fields": {
+      "book": 17,
+      "quantity": 8,
+      "sale_date": "2025-03-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 109,
+    "fields": {
+      "book": 23,
+      "quantity": 6,
+      "sale_date": "2025-03-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 110,
+    "fields": {
+      "book": 1,
+      "quantity": 17,
+      "sale_date": "2025-03-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 111,
+    "fields": {
+      "book": 7,
+      "quantity": 12,
+      "sale_date": "2025-03-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 112,
+    "fields": {
+      "book": 9,
+      "quantity": 8,
+      "sale_date": "2025-03-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 113,
+    "fields": {
+      "book": 10,
+      "quantity": 11,
+      "sale_date": "2025-03-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 114,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-03-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 115,
+    "fields": {
+      "book": 3,
+      "quantity": 19,
+      "sale_date": "2025-03-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 116,
+    "fields": {
+      "book": 9,
+      "quantity": 4,
+      "sale_date": "2025-03-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 117,
+    "fields": {
+      "book": 4,
+      "quantity": 13,
+      "sale_date": "2025-03-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 118,
+    "fields": {
+      "book": 5,
+      "quantity": 19,
+      "sale_date": "2025-03-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 119,
+    "fields": {
+      "book": 12,
+      "quantity": 12,
+      "sale_date": "2025-03-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 120,
+    "fields": {
+      "book": 23,
+      "quantity": 6,
+      "sale_date": "2025-03-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 121,
+    "fields": {
+      "book": 7,
+      "quantity": 5,
+      "sale_date": "2025-03-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 122,
+    "fields": {
+      "book": 15,
+      "quantity": 5,
+      "sale_date": "2025-03-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 123,
+    "fields": {
+      "book": 2,
+      "quantity": 8,
+      "sale_date": "2025-03-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 124,
+    "fields": {
+      "book": 3,
+      "quantity": 18,
+      "sale_date": "2025-03-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 125,
+    "fields": {
+      "book": 30,
+      "quantity": 7,
+      "sale_date": "2025-03-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 126,
+    "fields": {
+      "book": 30,
+      "quantity": 3,
+      "sale_date": "2025-03-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 127,
+    "fields": {
+      "book": 33,
+      "quantity": 6,
+      "sale_date": "2025-03-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 128,
+    "fields": {
+      "book": 24,
+      "quantity": 8,
+      "sale_date": "2025-03-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 129,
+    "fields": {
+      "book": 46,
+      "quantity": 5,
+      "sale_date": "2025-03-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 130,
+    "fields": {
+      "book": 49,
+      "quantity": 6,
+      "sale_date": "2025-03-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 131,
+    "fields": {
+      "book": 11,
+      "quantity": 11,
+      "sale_date": "2025-03-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 132,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-03-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 133,
+    "fields": {
+      "book": 42,
+      "quantity": 2,
+      "sale_date": "2025-03-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 134,
+    "fields": {
+      "book": 29,
+      "quantity": 6,
+      "sale_date": "2025-03-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 135,
+    "fields": {
+      "book": 5,
+      "quantity": 8,
+      "sale_date": "2025-03-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 136,
+    "fields": {
+      "book": 6,
+      "quantity": 9,
+      "sale_date": "2025-03-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 137,
+    "fields": {
+      "book": 6,
+      "quantity": 9,
+      "sale_date": "2025-03-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 138,
+    "fields": {
+      "book": 25,
+      "quantity": 3,
+      "sale_date": "2025-03-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 139,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-03-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 140,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-03-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 141,
+    "fields": {
+      "book": 14,
+      "quantity": 13,
+      "sale_date": "2025-03-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 142,
+    "fields": {
+      "book": 37,
+      "quantity": 1,
+      "sale_date": "2025-03-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 143,
+    "fields": {
+      "book": 39,
+      "quantity": 3,
+      "sale_date": "2025-03-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 144,
+    "fields": {
+      "book": 1,
+      "quantity": 14,
+      "sale_date": "2025-03-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 145,
+    "fields": {
+      "book": 2,
+      "quantity": 13,
+      "sale_date": "2025-03-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 146,
+    "fields": {
+      "book": 1,
+      "quantity": 12,
+      "sale_date": "2025-03-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 147,
+    "fields": {
+      "book": 6,
+      "quantity": 8,
+      "sale_date": "2025-03-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 148,
+    "fields": {
+      "book": 17,
+      "quantity": 6,
+      "sale_date": "2025-03-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 149,
+    "fields": {
+      "book": 19,
+      "quantity": 3,
+      "sale_date": "2025-03-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 150,
+    "fields": {
+      "book": 8,
+      "quantity": 8,
+      "sale_date": "2025-03-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 151,
+    "fields": {
+      "book": 47,
+      "quantity": 6,
+      "sale_date": "2025-03-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 152,
+    "fields": {
+      "book": 4,
+      "quantity": 15,
+      "sale_date": "2025-03-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 153,
+    "fields": {
+      "book": 5,
+      "quantity": 11,
+      "sale_date": "2025-03-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 154,
+    "fields": {
+      "book": 13,
+      "quantity": 10,
+      "sale_date": "2025-03-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 155,
+    "fields": {
+      "book": 2,
+      "quantity": 8,
+      "sale_date": "2025-03-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 156,
+    "fields": {
+      "book": 3,
+      "quantity": 16,
+      "sale_date": "2025-03-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 157,
+    "fields": {
+      "book": 5,
+      "quantity": 8,
+      "sale_date": "2025-03-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 158,
+    "fields": {
+      "book": 21,
+      "quantity": 5,
+      "sale_date": "2025-03-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 159,
+    "fields": {
+      "book": 3,
+      "quantity": 19,
+      "sale_date": "2025-03-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 160,
+    "fields": {
+      "book": 24,
+      "quantity": 9,
+      "sale_date": "2025-03-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 161,
+    "fields": {
+      "book": 28,
+      "quantity": 2,
+      "sale_date": "2025-03-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 162,
+    "fields": {
+      "book": 28,
+      "quantity": 2,
+      "sale_date": "2025-03-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 163,
+    "fields": {
+      "book": 34,
+      "quantity": 2,
+      "sale_date": "2025-03-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 164,
+    "fields": {
+      "book": 2,
+      "quantity": 18,
+      "sale_date": "2025-03-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 165,
+    "fields": {
+      "book": 3,
+      "quantity": 11,
+      "sale_date": "2025-03-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 166,
+    "fields": {
+      "book": 14,
+      "quantity": 10,
+      "sale_date": "2025-03-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 167,
+    "fields": {
+      "book": 36,
+      "quantity": 4,
+      "sale_date": "2025-03-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 168,
+    "fields": {
+      "book": 45,
+      "quantity": 4,
+      "sale_date": "2025-03-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 169,
+    "fields": {
+      "book": 2,
+      "quantity": 7,
+      "sale_date": "2025-04-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 170,
+    "fields": {
+      "book": 3,
+      "quantity": 18,
+      "sale_date": "2025-04-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 171,
+    "fields": {
+      "book": 5,
+      "quantity": 15,
+      "sale_date": "2025-04-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 172,
+    "fields": {
+      "book": 7,
+      "quantity": 8,
+      "sale_date": "2025-04-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 173,
+    "fields": {
+      "book": 13,
+      "quantity": 7,
+      "sale_date": "2025-04-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 174,
+    "fields": {
+      "book": 33,
+      "quantity": 9,
+      "sale_date": "2025-04-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 175,
+    "fields": {
+      "book": 4,
+      "quantity": 14,
+      "sale_date": "2025-04-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 176,
+    "fields": {
+      "book": 10,
+      "quantity": 9,
+      "sale_date": "2025-04-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 177,
+    "fields": {
+      "book": 32,
+      "quantity": 6,
+      "sale_date": "2025-04-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 178,
+    "fields": {
+      "book": 35,
+      "quantity": 4,
+      "sale_date": "2025-04-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 179,
+    "fields": {
+      "book": 6,
+      "quantity": 13,
+      "sale_date": "2025-04-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 180,
+    "fields": {
+      "book": 7,
+      "quantity": 11,
+      "sale_date": "2025-04-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 181,
+    "fields": {
+      "book": 31,
+      "quantity": 9,
+      "sale_date": "2025-04-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 182,
+    "fields": {
+      "book": 2,
+      "quantity": 8,
+      "sale_date": "2025-04-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 183,
+    "fields": {
+      "book": 4,
+      "quantity": 13,
+      "sale_date": "2025-04-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 184,
+    "fields": {
+      "book": 19,
+      "quantity": 4,
+      "sale_date": "2025-04-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 185,
+    "fields": {
+      "book": 23,
+      "quantity": 2,
+      "sale_date": "2025-04-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 186,
+    "fields": {
+      "book": 26,
+      "quantity": 4,
+      "sale_date": "2025-04-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 187,
+    "fields": {
+      "book": 45,
+      "quantity": 2,
+      "sale_date": "2025-04-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 188,
+    "fields": {
+      "book": 29,
+      "quantity": 3,
+      "sale_date": "2025-04-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 189,
+    "fields": {
+      "book": 5,
+      "quantity": 7,
+      "sale_date": "2025-04-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 190,
+    "fields": {
+      "book": 7,
+      "quantity": 9,
+      "sale_date": "2025-04-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 191,
+    "fields": {
+      "book": 1,
+      "quantity": 16,
+      "sale_date": "2025-04-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 192,
+    "fields": {
+      "book": 31,
+      "quantity": 5,
+      "sale_date": "2025-04-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 193,
+    "fields": {
+      "book": 2,
+      "quantity": 12,
+      "sale_date": "2025-04-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 194,
+    "fields": {
+      "book": 21,
+      "quantity": 6,
+      "sale_date": "2025-04-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 195,
+    "fields": {
+      "book": 21,
+      "quantity": 3,
+      "sale_date": "2025-04-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 196,
+    "fields": {
+      "book": 4,
+      "quantity": 17,
+      "sale_date": "2025-04-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 197,
+    "fields": {
+      "book": 34,
+      "quantity": 8,
+      "sale_date": "2025-04-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 198,
+    "fields": {
+      "book": 40,
+      "quantity": 3,
+      "sale_date": "2025-04-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 199,
+    "fields": {
+      "book": 33,
+      "quantity": 2,
+      "sale_date": "2025-04-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 200,
+    "fields": {
+      "book": 37,
+      "quantity": 1,
+      "sale_date": "2025-04-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 201,
+    "fields": {
+      "book": 3,
+      "quantity": 15,
+      "sale_date": "2025-04-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 202,
+    "fields": {
+      "book": 2,
+      "quantity": 13,
+      "sale_date": "2025-04-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 203,
+    "fields": {
+      "book": 10,
+      "quantity": 10,
+      "sale_date": "2025-04-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 204,
+    "fields": {
+      "book": 15,
+      "quantity": 9,
+      "sale_date": "2025-04-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 205,
+    "fields": {
+      "book": 5,
+      "quantity": 12,
+      "sale_date": "2025-04-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 206,
+    "fields": {
+      "book": 11,
+      "quantity": 13,
+      "sale_date": "2025-04-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 207,
+    "fields": {
+      "book": 32,
+      "quantity": 9,
+      "sale_date": "2025-04-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 208,
+    "fields": {
+      "book": 1,
+      "quantity": 8,
+      "sale_date": "2025-04-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 209,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-04-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 210,
+    "fields": {
+      "book": 18,
+      "quantity": 2,
+      "sale_date": "2025-04-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 211,
+    "fields": {
+      "book": 1,
+      "quantity": 8,
+      "sale_date": "2025-04-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 212,
+    "fields": {
+      "book": 3,
+      "quantity": 11,
+      "sale_date": "2025-04-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 213,
+    "fields": {
+      "book": 6,
+      "quantity": 13,
+      "sale_date": "2025-04-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 214,
+    "fields": {
+      "book": 11,
+      "quantity": 10,
+      "sale_date": "2025-04-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 215,
+    "fields": {
+      "book": 1,
+      "quantity": 8,
+      "sale_date": "2025-04-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 216,
+    "fields": {
+      "book": 1,
+      "quantity": 8,
+      "sale_date": "2025-04-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 217,
+    "fields": {
+      "book": 5,
+      "quantity": 14,
+      "sale_date": "2025-04-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 218,
+    "fields": {
+      "book": 8,
+      "quantity": 4,
+      "sale_date": "2025-04-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 219,
+    "fields": {
+      "book": 16,
+      "quantity": 7,
+      "sale_date": "2025-04-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 220,
+    "fields": {
+      "book": 16,
+      "quantity": 7,
+      "sale_date": "2025-04-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 221,
+    "fields": {
+      "book": 9,
+      "quantity": 13,
+      "sale_date": "2025-04-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 222,
+    "fields": {
+      "book": 26,
+      "quantity": 2,
+      "sale_date": "2025-04-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 223,
+    "fields": {
+      "book": 5,
+      "quantity": 12,
+      "sale_date": "2025-04-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 224,
+    "fields": {
+      "book": 23,
+      "quantity": 4,
+      "sale_date": "2025-04-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 225,
+    "fields": {
+      "book": 8,
+      "quantity": 7,
+      "sale_date": "2025-04-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 226,
+    "fields": {
+      "book": 12,
+      "quantity": 7,
+      "sale_date": "2025-04-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 227,
+    "fields": {
+      "book": 29,
+      "quantity": 2,
+      "sale_date": "2025-04-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 228,
+    "fields": {
+      "book": 44,
+      "quantity": 3,
+      "sale_date": "2025-04-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 229,
+    "fields": {
+      "book": 40,
+      "quantity": 5,
+      "sale_date": "2025-05-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 230,
+    "fields": {
+      "book": 4,
+      "quantity": 11,
+      "sale_date": "2025-05-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 231,
+    "fields": {
+      "book": 13,
+      "quantity": 9,
+      "sale_date": "2025-05-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 232,
+    "fields": {
+      "book": 19,
+      "quantity": 7,
+      "sale_date": "2025-05-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 233,
+    "fields": {
+      "book": 2,
+      "quantity": 12,
+      "sale_date": "2025-05-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 234,
+    "fields": {
+      "book": 23,
+      "quantity": 8,
+      "sale_date": "2025-05-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 235,
+    "fields": {
+      "book": 9,
+      "quantity": 12,
+      "sale_date": "2025-05-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 236,
+    "fields": {
+      "book": 16,
+      "quantity": 3,
+      "sale_date": "2025-05-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 237,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-05-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 238,
+    "fields": {
+      "book": 2,
+      "quantity": 10,
+      "sale_date": "2025-05-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 239,
+    "fields": {
+      "book": 10,
+      "quantity": 7,
+      "sale_date": "2025-05-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 240,
+    "fields": {
+      "book": 27,
+      "quantity": 4,
+      "sale_date": "2025-05-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 241,
+    "fields": {
+      "book": 32,
+      "quantity": 9,
+      "sale_date": "2025-05-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 242,
+    "fields": {
+      "book": 49,
+      "quantity": 3,
+      "sale_date": "2025-05-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 243,
+    "fields": {
+      "book": 17,
+      "quantity": 9,
+      "sale_date": "2025-05-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 244,
+    "fields": {
+      "book": 4,
+      "quantity": 12,
+      "sale_date": "2025-05-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 245,
+    "fields": {
+      "book": 25,
+      "quantity": 4,
+      "sale_date": "2025-05-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 246,
+    "fields": {
+      "book": 30,
+      "quantity": 5,
+      "sale_date": "2025-05-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 247,
+    "fields": {
+      "book": 48,
+      "quantity": 1,
+      "sale_date": "2025-05-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 248,
+    "fields": {
+      "book": 4,
+      "quantity": 13,
+      "sale_date": "2025-05-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 249,
+    "fields": {
+      "book": 18,
+      "quantity": 7,
+      "sale_date": "2025-05-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 250,
+    "fields": {
+      "book": 30,
+      "quantity": 5,
+      "sale_date": "2025-05-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 251,
+    "fields": {
+      "book": 2,
+      "quantity": 10,
+      "sale_date": "2025-05-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 252,
+    "fields": {
+      "book": 2,
+      "quantity": 20,
+      "sale_date": "2025-05-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 253,
+    "fields": {
+      "book": 12,
+      "quantity": 11,
+      "sale_date": "2025-05-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 254,
+    "fields": {
+      "book": 19,
+      "quantity": 8,
+      "sale_date": "2025-05-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 255,
+    "fields": {
+      "book": 38,
+      "quantity": 2,
+      "sale_date": "2025-05-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 256,
+    "fields": {
+      "book": 3,
+      "quantity": 14,
+      "sale_date": "2025-05-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 257,
+    "fields": {
+      "book": 24,
+      "quantity": 5,
+      "sale_date": "2025-05-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 258,
+    "fields": {
+      "book": 5,
+      "quantity": 19,
+      "sale_date": "2025-05-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 259,
+    "fields": {
+      "book": 6,
+      "quantity": 9,
+      "sale_date": "2025-05-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 260,
+    "fields": {
+      "book": 8,
+      "quantity": 10,
+      "sale_date": "2025-05-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 261,
+    "fields": {
+      "book": 29,
+      "quantity": 5,
+      "sale_date": "2025-05-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 262,
+    "fields": {
+      "book": 5,
+      "quantity": 9,
+      "sale_date": "2025-05-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 263,
+    "fields": {
+      "book": 6,
+      "quantity": 9,
+      "sale_date": "2025-05-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 264,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-05-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 265,
+    "fields": {
+      "book": 15,
+      "quantity": 12,
+      "sale_date": "2025-05-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 266,
+    "fields": {
+      "book": 35,
+      "quantity": 8,
+      "sale_date": "2025-05-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 267,
+    "fields": {
+      "book": 5,
+      "quantity": 16,
+      "sale_date": "2025-05-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 268,
+    "fields": {
+      "book": 13,
+      "quantity": 8,
+      "sale_date": "2025-05-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 269,
+    "fields": {
+      "book": 17,
+      "quantity": 4,
+      "sale_date": "2025-05-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 270,
+    "fields": {
+      "book": 27,
+      "quantity": 7,
+      "sale_date": "2025-05-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 271,
+    "fields": {
+      "book": 31,
+      "quantity": 4,
+      "sale_date": "2025-05-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 272,
+    "fields": {
+      "book": 32,
+      "quantity": 3,
+      "sale_date": "2025-05-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 273,
+    "fields": {
+      "book": 12,
+      "quantity": 14,
+      "sale_date": "2025-05-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 274,
+    "fields": {
+      "book": 31,
+      "quantity": 6,
+      "sale_date": "2025-05-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 275,
+    "fields": {
+      "book": 2,
+      "quantity": 15,
+      "sale_date": "2025-05-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 276,
+    "fields": {
+      "book": 15,
+      "quantity": 12,
+      "sale_date": "2025-05-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 277,
+    "fields": {
+      "book": 13,
+      "quantity": 8,
+      "sale_date": "2025-05-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 278,
+    "fields": {
+      "book": 3,
+      "quantity": 17,
+      "sale_date": "2025-05-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 279,
+    "fields": {
+      "book": 22,
+      "quantity": 6,
+      "sale_date": "2025-05-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 280,
+    "fields": {
+      "book": 24,
+      "quantity": 7,
+      "sale_date": "2025-05-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 281,
+    "fields": {
+      "book": 6,
+      "quantity": 10,
+      "sale_date": "2025-05-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 282,
+    "fields": {
+      "book": 22,
+      "quantity": 4,
+      "sale_date": "2025-05-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 283,
+    "fields": {
+      "book": 1,
+      "quantity": 16,
+      "sale_date": "2025-05-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 284,
+    "fields": {
+      "book": 4,
+      "quantity": 14,
+      "sale_date": "2025-05-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 285,
+    "fields": {
+      "book": 10,
+      "quantity": 6,
+      "sale_date": "2025-05-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 286,
+    "fields": {
+      "book": 20,
+      "quantity": 4,
+      "sale_date": "2025-05-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 287,
+    "fields": {
+      "book": 9,
+      "quantity": 5,
+      "sale_date": "2025-05-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 288,
+    "fields": {
+      "book": 11,
+      "quantity": 14,
+      "sale_date": "2025-05-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 289,
+    "fields": {
+      "book": 29,
+      "quantity": 9,
+      "sale_date": "2025-05-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 290,
+    "fields": {
+      "book": 15,
+      "quantity": 14,
+      "sale_date": "2025-05-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 291,
+    "fields": {
+      "book": 23,
+      "quantity": 10,
+      "sale_date": "2025-05-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 292,
+    "fields": {
+      "book": 47,
+      "quantity": 4,
+      "sale_date": "2025-05-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 293,
+    "fields": {
+      "book": 9,
+      "quantity": 9,
+      "sale_date": "2025-05-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 294,
+    "fields": {
+      "book": 26,
+      "quantity": 10,
+      "sale_date": "2025-05-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 295,
+    "fields": {
+      "book": 2,
+      "quantity": 16,
+      "sale_date": "2025-06-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 296,
+    "fields": {
+      "book": 1,
+      "quantity": 15,
+      "sale_date": "2025-06-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 297,
+    "fields": {
+      "book": 5,
+      "quantity": 9,
+      "sale_date": "2025-06-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 298,
+    "fields": {
+      "book": 9,
+      "quantity": 10,
+      "sale_date": "2025-06-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 299,
+    "fields": {
+      "book": 19,
+      "quantity": 3,
+      "sale_date": "2025-06-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 300,
+    "fields": {
+      "book": 26,
+      "quantity": 3,
+      "sale_date": "2025-06-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 301,
+    "fields": {
+      "book": 2,
+      "quantity": 16,
+      "sale_date": "2025-06-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 302,
+    "fields": {
+      "book": 3,
+      "quantity": 7,
+      "sale_date": "2025-06-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 303,
+    "fields": {
+      "book": 11,
+      "quantity": 5,
+      "sale_date": "2025-06-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 304,
+    "fields": {
+      "book": 32,
+      "quantity": 4,
+      "sale_date": "2025-06-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 305,
+    "fields": {
+      "book": 4,
+      "quantity": 14,
+      "sale_date": "2025-06-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 306,
+    "fields": {
+      "book": 13,
+      "quantity": 4,
+      "sale_date": "2025-06-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 307,
+    "fields": {
+      "book": 15,
+      "quantity": 10,
+      "sale_date": "2025-06-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 308,
+    "fields": {
+      "book": 40,
+      "quantity": 2,
+      "sale_date": "2025-06-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 309,
+    "fields": {
+      "book": 9,
+      "quantity": 9,
+      "sale_date": "2025-06-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 310,
+    "fields": {
+      "book": 17,
+      "quantity": 4,
+      "sale_date": "2025-06-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 311,
+    "fields": {
+      "book": 1,
+      "quantity": 6,
+      "sale_date": "2025-06-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 312,
+    "fields": {
+      "book": 7,
+      "quantity": 3,
+      "sale_date": "2025-06-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 313,
+    "fields": {
+      "book": 25,
+      "quantity": 6,
+      "sale_date": "2025-06-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 314,
+    "fields": {
+      "book": 1,
+      "quantity": 13,
+      "sale_date": "2025-06-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 315,
+    "fields": {
+      "book": 18,
+      "quantity": 4,
+      "sale_date": "2025-06-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 316,
+    "fields": {
+      "book": 14,
+      "quantity": 4,
+      "sale_date": "2025-06-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 317,
+    "fields": {
+      "book": 47,
+      "quantity": 3,
+      "sale_date": "2025-06-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 318,
+    "fields": {
+      "book": 2,
+      "quantity": 16,
+      "sale_date": "2025-06-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 319,
+    "fields": {
+      "book": 4,
+      "quantity": 12,
+      "sale_date": "2025-06-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 320,
+    "fields": {
+      "book": 5,
+      "quantity": 14,
+      "sale_date": "2025-06-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 321,
+    "fields": {
+      "book": 35,
+      "quantity": 4,
+      "sale_date": "2025-06-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 322,
+    "fields": {
+      "book": 45,
+      "quantity": 1,
+      "sale_date": "2025-06-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 323,
+    "fields": {
+      "book": 4,
+      "quantity": 10,
+      "sale_date": "2025-06-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 324,
+    "fields": {
+      "book": 15,
+      "quantity": 3,
+      "sale_date": "2025-06-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 325,
+    "fields": {
+      "book": 24,
+      "quantity": 2,
+      "sale_date": "2025-06-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 326,
+    "fields": {
+      "book": 3,
+      "quantity": 14,
+      "sale_date": "2025-06-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 327,
+    "fields": {
+      "book": 5,
+      "quantity": 10,
+      "sale_date": "2025-06-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 328,
+    "fields": {
+      "book": 8,
+      "quantity": 4,
+      "sale_date": "2025-06-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 329,
+    "fields": {
+      "book": 27,
+      "quantity": 6,
+      "sale_date": "2025-06-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 330,
+    "fields": {
+      "book": 37,
+      "quantity": 4,
+      "sale_date": "2025-06-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 331,
+    "fields": {
+      "book": 6,
+      "quantity": 8,
+      "sale_date": "2025-06-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 332,
+    "fields": {
+      "book": 7,
+      "quantity": 10,
+      "sale_date": "2025-06-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 333,
+    "fields": {
+      "book": 31,
+      "quantity": 6,
+      "sale_date": "2025-06-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 334,
+    "fields": {
+      "book": 13,
+      "quantity": 7,
+      "sale_date": "2025-06-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 335,
+    "fields": {
+      "book": 18,
+      "quantity": 5,
+      "sale_date": "2025-06-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 336,
+    "fields": {
+      "book": 25,
+      "quantity": 5,
+      "sale_date": "2025-06-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 337,
+    "fields": {
+      "book": 19,
+      "quantity": 6,
+      "sale_date": "2025-06-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 338,
+    "fields": {
+      "book": 3,
+      "quantity": 8,
+      "sale_date": "2025-06-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 339,
+    "fields": {
+      "book": 4,
+      "quantity": 14,
+      "sale_date": "2025-06-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 340,
+    "fields": {
+      "book": 3,
+      "quantity": 12,
+      "sale_date": "2025-06-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 341,
+    "fields": {
+      "book": 8,
+      "quantity": 6,
+      "sale_date": "2025-06-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 342,
+    "fields": {
+      "book": 10,
+      "quantity": 11,
+      "sale_date": "2025-06-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 343,
+    "fields": {
+      "book": 14,
+      "quantity": 9,
+      "sale_date": "2025-06-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 344,
+    "fields": {
+      "book": 2,
+      "quantity": 12,
+      "sale_date": "2025-06-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 345,
+    "fields": {
+      "book": 14,
+      "quantity": 10,
+      "sale_date": "2025-06-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 346,
+    "fields": {
+      "book": 24,
+      "quantity": 4,
+      "sale_date": "2025-06-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 347,
+    "fields": {
+      "book": 3,
+      "quantity": 7,
+      "sale_date": "2025-06-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 348,
+    "fields": {
+      "book": 4,
+      "quantity": 15,
+      "sale_date": "2025-06-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 349,
+    "fields": {
+      "book": 43,
+      "quantity": 2,
+      "sale_date": "2025-06-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 350,
+    "fields": {
+      "book": 49,
+      "quantity": 5,
+      "sale_date": "2025-06-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 351,
+    "fields": {
+      "book": 9,
+      "quantity": 11,
+      "sale_date": "2025-06-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 352,
+    "fields": {
+      "book": 29,
+      "quantity": 6,
+      "sale_date": "2025-06-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 353,
+    "fields": {
+      "book": 1,
+      "quantity": 15,
+      "sale_date": "2025-07-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 354,
+    "fields": {
+      "book": 5,
+      "quantity": 16,
+      "sale_date": "2025-07-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 355,
+    "fields": {
+      "book": 6,
+      "quantity": 9,
+      "sale_date": "2025-07-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 356,
+    "fields": {
+      "book": 11,
+      "quantity": 10,
+      "sale_date": "2025-07-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 357,
+    "fields": {
+      "book": 12,
+      "quantity": 7,
+      "sale_date": "2025-07-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 358,
+    "fields": {
+      "book": 32,
+      "quantity": 4,
+      "sale_date": "2025-07-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 359,
+    "fields": {
+      "book": 15,
+      "quantity": 13,
+      "sale_date": "2025-07-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 360,
+    "fields": {
+      "book": 37,
+      "quantity": 4,
+      "sale_date": "2025-07-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 361,
+    "fields": {
+      "book": 48,
+      "quantity": 3,
+      "sale_date": "2025-07-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 362,
+    "fields": {
+      "book": 7,
+      "quantity": 5,
+      "sale_date": "2025-07-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 363,
+    "fields": {
+      "book": 18,
+      "quantity": 4,
+      "sale_date": "2025-07-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 364,
+    "fields": {
+      "book": 13,
+      "quantity": 10,
+      "sale_date": "2025-07-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 365,
+    "fields": {
+      "book": 15,
+      "quantity": 8,
+      "sale_date": "2025-07-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 366,
+    "fields": {
+      "book": 21,
+      "quantity": 6,
+      "sale_date": "2025-07-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 367,
+    "fields": {
+      "book": 36,
+      "quantity": 1,
+      "sale_date": "2025-07-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 368,
+    "fields": {
+      "book": 7,
+      "quantity": 13,
+      "sale_date": "2025-07-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 369,
+    "fields": {
+      "book": 26,
+      "quantity": 8,
+      "sale_date": "2025-07-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 370,
+    "fields": {
+      "book": 34,
+      "quantity": 9,
+      "sale_date": "2025-07-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 371,
+    "fields": {
+      "book": 3,
+      "quantity": 17,
+      "sale_date": "2025-07-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 372,
+    "fields": {
+      "book": 27,
+      "quantity": 8,
+      "sale_date": "2025-07-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 373,
+    "fields": {
+      "book": 50,
+      "quantity": 2,
+      "sale_date": "2025-07-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 374,
+    "fields": {
+      "book": 35,
+      "quantity": 5,
+      "sale_date": "2025-07-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 375,
+    "fields": {
+      "book": 40,
+      "quantity": 2,
+      "sale_date": "2025-07-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 376,
+    "fields": {
+      "book": 1,
+      "quantity": 16,
+      "sale_date": "2025-07-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 377,
+    "fields": {
+      "book": 5,
+      "quantity": 14,
+      "sale_date": "2025-07-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 378,
+    "fields": {
+      "book": 3,
+      "quantity": 10,
+      "sale_date": "2025-07-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 379,
+    "fields": {
+      "book": 4,
+      "quantity": 17,
+      "sale_date": "2025-07-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 380,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-07-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 381,
+    "fields": {
+      "book": 19,
+      "quantity": 4,
+      "sale_date": "2025-07-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 382,
+    "fields": {
+      "book": 3,
+      "quantity": 9,
+      "sale_date": "2025-07-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 383,
+    "fields": {
+      "book": 18,
+      "quantity": 2,
+      "sale_date": "2025-07-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 384,
+    "fields": {
+      "book": 30,
+      "quantity": 9,
+      "sale_date": "2025-07-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 385,
+    "fields": {
+      "book": 16,
+      "quantity": 5,
+      "sale_date": "2025-07-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 386,
+    "fields": {
+      "book": 2,
+      "quantity": 9,
+      "sale_date": "2025-07-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 387,
+    "fields": {
+      "book": 28,
+      "quantity": 2,
+      "sale_date": "2025-07-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 388,
+    "fields": {
+      "book": 13,
+      "quantity": 7,
+      "sale_date": "2025-07-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 389,
+    "fields": {
+      "book": 28,
+      "quantity": 2,
+      "sale_date": "2025-07-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 390,
+    "fields": {
+      "book": 33,
+      "quantity": 3,
+      "sale_date": "2025-07-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 391,
+    "fields": {
+      "book": 3,
+      "quantity": 10,
+      "sale_date": "2025-07-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 392,
+    "fields": {
+      "book": 2,
+      "quantity": 18,
+      "sale_date": "2025-07-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 393,
+    "fields": {
+      "book": 19,
+      "quantity": 3,
+      "sale_date": "2025-07-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 394,
+    "fields": {
+      "book": 23,
+      "quantity": 3,
+      "sale_date": "2025-07-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 395,
+    "fields": {
+      "book": 26,
+      "quantity": 9,
+      "sale_date": "2025-07-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 396,
+    "fields": {
+      "book": 27,
+      "quantity": 8,
+      "sale_date": "2025-07-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 397,
+    "fields": {
+      "book": 2,
+      "quantity": 12,
+      "sale_date": "2025-07-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 398,
+    "fields": {
+      "book": 3,
+      "quantity": 12,
+      "sale_date": "2025-07-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 399,
+    "fields": {
+      "book": 4,
+      "quantity": 18,
+      "sale_date": "2025-07-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 400,
+    "fields": {
+      "book": 10,
+      "quantity": 4,
+      "sale_date": "2025-07-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 401,
+    "fields": {
+      "book": 22,
+      "quantity": 4,
+      "sale_date": "2025-07-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 402,
+    "fields": {
+      "book": 4,
+      "quantity": 16,
+      "sale_date": "2025-07-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 403,
+    "fields": {
+      "book": 17,
+      "quantity": 2,
+      "sale_date": "2025-07-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 404,
+    "fields": {
+      "book": 41,
+      "quantity": 4,
+      "sale_date": "2025-07-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 405,
+    "fields": {
+      "book": 5,
+      "quantity": 17,
+      "sale_date": "2025-07-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 406,
+    "fields": {
+      "book": 14,
+      "quantity": 9,
+      "sale_date": "2025-07-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 407,
+    "fields": {
+      "book": 1,
+      "quantity": 17,
+      "sale_date": "2025-07-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 408,
+    "fields": {
+      "book": 7,
+      "quantity": 7,
+      "sale_date": "2025-07-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 409,
+    "fields": {
+      "book": 22,
+      "quantity": 3,
+      "sale_date": "2025-07-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 410,
+    "fields": {
+      "book": 35,
+      "quantity": 7,
+      "sale_date": "2025-07-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 411,
+    "fields": {
+      "book": 1,
+      "quantity": 8,
+      "sale_date": "2025-07-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 412,
+    "fields": {
+      "book": 2,
+      "quantity": 7,
+      "sale_date": "2025-07-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 413,
+    "fields": {
+      "book": 5,
+      "quantity": 14,
+      "sale_date": "2025-07-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 414,
+    "fields": {
+      "book": 33,
+      "quantity": 6,
+      "sale_date": "2025-07-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 415,
+    "fields": {
+      "book": 13,
+      "quantity": 8,
+      "sale_date": "2025-07-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 416,
+    "fields": {
+      "book": 14,
+      "quantity": 12,
+      "sale_date": "2025-07-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 417,
+    "fields": {
+      "book": 1,
+      "quantity": 16,
+      "sale_date": "2025-07-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 418,
+    "fields": {
+      "book": 4,
+      "quantity": 12,
+      "sale_date": "2025-07-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 419,
+    "fields": {
+      "book": 29,
+      "quantity": 3,
+      "sale_date": "2025-07-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 420,
+    "fields": {
+      "book": 34,
+      "quantity": 6,
+      "sale_date": "2025-07-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 421,
+    "fields": {
+      "book": 49,
+      "quantity": 2,
+      "sale_date": "2025-07-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 422,
+    "fields": {
+      "book": 6,
+      "quantity": 13,
+      "sale_date": "2025-08-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 423,
+    "fields": {
+      "book": 6,
+      "quantity": 13,
+      "sale_date": "2025-08-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 424,
+    "fields": {
+      "book": 5,
+      "quantity": 10,
+      "sale_date": "2025-08-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 425,
+    "fields": {
+      "book": 28,
+      "quantity": 4,
+      "sale_date": "2025-08-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 426,
+    "fields": {
+      "book": 4,
+      "quantity": 21,
+      "sale_date": "2025-08-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 427,
+    "fields": {
+      "book": 5,
+      "quantity": 18,
+      "sale_date": "2025-08-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 428,
+    "fields": {
+      "book": 47,
+      "quantity": 7,
+      "sale_date": "2025-08-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 429,
+    "fields": {
+      "book": 3,
+      "quantity": 14,
+      "sale_date": "2025-08-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 430,
+    "fields": {
+      "book": 15,
+      "quantity": 14,
+      "sale_date": "2025-08-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 431,
+    "fields": {
+      "book": 9,
+      "quantity": 14,
+      "sale_date": "2025-08-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 432,
+    "fields": {
+      "book": 1,
+      "quantity": 14,
+      "sale_date": "2025-08-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 433,
+    "fields": {
+      "book": 10,
+      "quantity": 11,
+      "sale_date": "2025-08-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 434,
+    "fields": {
+      "book": 18,
+      "quantity": 2,
+      "sale_date": "2025-08-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 435,
+    "fields": {
+      "book": 26,
+      "quantity": 10,
+      "sale_date": "2025-08-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 436,
+    "fields": {
+      "book": 6,
+      "quantity": 13,
+      "sale_date": "2025-08-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 437,
+    "fields": {
+      "book": 11,
+      "quantity": 6,
+      "sale_date": "2025-08-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 438,
+    "fields": {
+      "book": 27,
+      "quantity": 3,
+      "sale_date": "2025-08-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 439,
+    "fields": {
+      "book": 44,
+      "quantity": 4,
+      "sale_date": "2025-08-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 440,
+    "fields": {
+      "book": 21,
+      "quantity": 3,
+      "sale_date": "2025-08-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 441,
+    "fields": {
+      "book": 29,
+      "quantity": 3,
+      "sale_date": "2025-08-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 442,
+    "fields": {
+      "book": 2,
+      "quantity": 14,
+      "sale_date": "2025-08-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 443,
+    "fields": {
+      "book": 26,
+      "quantity": 9,
+      "sale_date": "2025-08-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 444,
+    "fields": {
+      "book": 1,
+      "quantity": 12,
+      "sale_date": "2025-08-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 445,
+    "fields": {
+      "book": 1,
+      "quantity": 16,
+      "sale_date": "2025-08-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 446,
+    "fields": {
+      "book": 10,
+      "quantity": 14,
+      "sale_date": "2025-08-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 447,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-08-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 448,
+    "fields": {
+      "book": 43,
+      "quantity": 3,
+      "sale_date": "2025-08-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 449,
+    "fields": {
+      "book": 5,
+      "quantity": 11,
+      "sale_date": "2025-08-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 450,
+    "fields": {
+      "book": 5,
+      "quantity": 14,
+      "sale_date": "2025-08-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 451,
+    "fields": {
+      "book": 30,
+      "quantity": 3,
+      "sale_date": "2025-08-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 452,
+    "fields": {
+      "book": 33,
+      "quantity": 11,
+      "sale_date": "2025-08-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 453,
+    "fields": {
+      "book": 4,
+      "quantity": 18,
+      "sale_date": "2025-08-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 454,
+    "fields": {
+      "book": 3,
+      "quantity": 19,
+      "sale_date": "2025-08-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 455,
+    "fields": {
+      "book": 20,
+      "quantity": 9,
+      "sale_date": "2025-08-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 456,
+    "fields": {
+      "book": 27,
+      "quantity": 3,
+      "sale_date": "2025-08-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 457,
+    "fields": {
+      "book": 24,
+      "quantity": 9,
+      "sale_date": "2025-08-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 458,
+    "fields": {
+      "book": 12,
+      "quantity": 7,
+      "sale_date": "2025-08-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 459,
+    "fields": {
+      "book": 5,
+      "quantity": 11,
+      "sale_date": "2025-08-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 460,
+    "fields": {
+      "book": 3,
+      "quantity": 11,
+      "sale_date": "2025-08-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 461,
+    "fields": {
+      "book": 21,
+      "quantity": 3,
+      "sale_date": "2025-08-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 462,
+    "fields": {
+      "book": 45,
+      "quantity": 6,
+      "sale_date": "2025-08-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 463,
+    "fields": {
+      "book": 4,
+      "quantity": 16,
+      "sale_date": "2025-08-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 464,
+    "fields": {
+      "book": 37,
+      "quantity": 6,
+      "sale_date": "2025-08-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 465,
+    "fields": {
+      "book": 2,
+      "quantity": 21,
+      "sale_date": "2025-08-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 466,
+    "fields": {
+      "book": 50,
+      "quantity": 6,
+      "sale_date": "2025-08-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 467,
+    "fields": {
+      "book": 20,
+      "quantity": 7,
+      "sale_date": "2025-08-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 468,
+    "fields": {
+      "book": 12,
+      "quantity": 15,
+      "sale_date": "2025-08-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 469,
+    "fields": {
+      "book": 18,
+      "quantity": 6,
+      "sale_date": "2025-08-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 470,
+    "fields": {
+      "book": 3,
+      "quantity": 24,
+      "sale_date": "2025-09-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 471,
+    "fields": {
+      "book": 12,
+      "quantity": 5,
+      "sale_date": "2025-09-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 472,
+    "fields": {
+      "book": 27,
+      "quantity": 5,
+      "sale_date": "2025-09-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 473,
+    "fields": {
+      "book": 3,
+      "quantity": 11,
+      "sale_date": "2025-09-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 474,
+    "fields": {
+      "book": 40,
+      "quantity": 1,
+      "sale_date": "2025-09-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 475,
+    "fields": {
+      "book": 43,
+      "quantity": 7,
+      "sale_date": "2025-09-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 476,
+    "fields": {
+      "book": 2,
+      "quantity": 10,
+      "sale_date": "2025-09-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 477,
+    "fields": {
+      "book": 17,
+      "quantity": 8,
+      "sale_date": "2025-09-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 478,
+    "fields": {
+      "book": 19,
+      "quantity": 6,
+      "sale_date": "2025-09-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 479,
+    "fields": {
+      "book": 37,
+      "quantity": 1,
+      "sale_date": "2025-09-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 480,
+    "fields": {
+      "book": 12,
+      "quantity": 11,
+      "sale_date": "2025-09-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 481,
+    "fields": {
+      "book": 31,
+      "quantity": 7,
+      "sale_date": "2025-09-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 482,
+    "fields": {
+      "book": 4,
+      "quantity": 19,
+      "sale_date": "2025-09-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 483,
+    "fields": {
+      "book": 11,
+      "quantity": 17,
+      "sale_date": "2025-09-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 484,
+    "fields": {
+      "book": 35,
+      "quantity": 11,
+      "sale_date": "2025-09-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 485,
+    "fields": {
+      "book": 15,
+      "quantity": 10,
+      "sale_date": "2025-09-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 486,
+    "fields": {
+      "book": 5,
+      "quantity": 24,
+      "sale_date": "2025-09-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 487,
+    "fields": {
+      "book": 21,
+      "quantity": 11,
+      "sale_date": "2025-09-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 488,
+    "fields": {
+      "book": 49,
+      "quantity": 6,
+      "sale_date": "2025-09-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 489,
+    "fields": {
+      "book": 3,
+      "quantity": 18,
+      "sale_date": "2025-09-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 490,
+    "fields": {
+      "book": 9,
+      "quantity": 8,
+      "sale_date": "2025-09-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 491,
+    "fields": {
+      "book": 25,
+      "quantity": 7,
+      "sale_date": "2025-09-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 492,
+    "fields": {
+      "book": 31,
+      "quantity": 10,
+      "sale_date": "2025-09-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 493,
+    "fields": {
+      "book": 33,
+      "quantity": 4,
+      "sale_date": "2025-09-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 494,
+    "fields": {
+      "book": 2,
+      "quantity": 10,
+      "sale_date": "2025-09-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 495,
+    "fields": {
+      "book": 3,
+      "quantity": 18,
+      "sale_date": "2025-09-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 496,
+    "fields": {
+      "book": 6,
+      "quantity": 8,
+      "sale_date": "2025-09-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 497,
+    "fields": {
+      "book": 10,
+      "quantity": 7,
+      "sale_date": "2025-09-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 498,
+    "fields": {
+      "book": 25,
+      "quantity": 12,
+      "sale_date": "2025-09-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 499,
+    "fields": {
+      "book": 2,
+      "quantity": 18,
+      "sale_date": "2025-09-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 500,
+    "fields": {
+      "book": 7,
+      "quantity": 12,
+      "sale_date": "2025-09-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 501,
+    "fields": {
+      "book": 32,
+      "quantity": 4,
+      "sale_date": "2025-09-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 502,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-09-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 503,
+    "fields": {
+      "book": 5,
+      "quantity": 17,
+      "sale_date": "2025-09-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 504,
+    "fields": {
+      "book": 14,
+      "quantity": 13,
+      "sale_date": "2025-09-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 505,
+    "fields": {
+      "book": 5,
+      "quantity": 13,
+      "sale_date": "2025-09-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 506,
+    "fields": {
+      "book": 2,
+      "quantity": 23,
+      "sale_date": "2025-09-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 507,
+    "fields": {
+      "book": 42,
+      "quantity": 1,
+      "sale_date": "2025-09-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 508,
+    "fields": {
+      "book": 50,
+      "quantity": 7,
+      "sale_date": "2025-09-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 509,
+    "fields": {
+      "book": 1,
+      "quantity": 17,
+      "sale_date": "2025-09-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 510,
+    "fields": {
+      "book": 14,
+      "quantity": 8,
+      "sale_date": "2025-09-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 511,
+    "fields": {
+      "book": 15,
+      "quantity": 13,
+      "sale_date": "2025-09-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 512,
+    "fields": {
+      "book": 24,
+      "quantity": 10,
+      "sale_date": "2025-09-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 513,
+    "fields": {
+      "book": 11,
+      "quantity": 16,
+      "sale_date": "2025-09-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 514,
+    "fields": {
+      "book": 24,
+      "quantity": 6,
+      "sale_date": "2025-09-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 515,
+    "fields": {
+      "book": 47,
+      "quantity": 1,
+      "sale_date": "2025-09-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 516,
+    "fields": {
+      "book": 1,
+      "quantity": 20,
+      "sale_date": "2025-09-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 517,
+    "fields": {
+      "book": 5,
+      "quantity": 22,
+      "sale_date": "2025-09-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 518,
+    "fields": {
+      "book": 11,
+      "quantity": 14,
+      "sale_date": "2025-09-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 519,
+    "fields": {
+      "book": 34,
+      "quantity": 4,
+      "sale_date": "2025-09-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 520,
+    "fields": {
+      "book": 41,
+      "quantity": 2,
+      "sale_date": "2025-09-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 521,
+    "fields": {
+      "book": 4,
+      "quantity": 24,
+      "sale_date": "2025-09-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 522,
+    "fields": {
+      "book": 7,
+      "quantity": 14,
+      "sale_date": "2025-09-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 523,
+    "fields": {
+      "book": 2,
+      "quantity": 20,
+      "sale_date": "2025-09-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 524,
+    "fields": {
+      "book": 3,
+      "quantity": 18,
+      "sale_date": "2025-09-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 525,
+    "fields": {
+      "book": 8,
+      "quantity": 10,
+      "sale_date": "2025-09-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 526,
+    "fields": {
+      "book": 5,
+      "quantity": 20,
+      "sale_date": "2025-09-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 527,
+    "fields": {
+      "book": 33,
+      "quantity": 11,
+      "sale_date": "2025-09-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 528,
+    "fields": {
+      "book": 1,
+      "quantity": 13,
+      "sale_date": "2025-09-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 529,
+    "fields": {
+      "book": 1,
+      "quantity": 19,
+      "sale_date": "2025-09-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 530,
+    "fields": {
+      "book": 13,
+      "quantity": 14,
+      "sale_date": "2025-09-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 531,
+    "fields": {
+      "book": 14,
+      "quantity": 13,
+      "sale_date": "2025-09-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 532,
+    "fields": {
+      "book": 17,
+      "quantity": 11,
+      "sale_date": "2025-09-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 533,
+    "fields": {
+      "book": 8,
+      "quantity": 16,
+      "sale_date": "2025-09-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 534,
+    "fields": {
+      "book": 26,
+      "quantity": 4,
+      "sale_date": "2025-09-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 535,
+    "fields": {
+      "book": 4,
+      "quantity": 25,
+      "sale_date": "2025-10-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 536,
+    "fields": {
+      "book": 21,
+      "quantity": 9,
+      "sale_date": "2025-10-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 537,
+    "fields": {
+      "book": 22,
+      "quantity": 10,
+      "sale_date": "2025-10-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 538,
+    "fields": {
+      "book": 2,
+      "quantity": 10,
+      "sale_date": "2025-10-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 539,
+    "fields": {
+      "book": 6,
+      "quantity": 17,
+      "sale_date": "2025-10-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 540,
+    "fields": {
+      "book": 10,
+      "quantity": 12,
+      "sale_date": "2025-10-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 541,
+    "fields": {
+      "book": 3,
+      "quantity": 16,
+      "sale_date": "2025-10-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 542,
+    "fields": {
+      "book": 27,
+      "quantity": 13,
+      "sale_date": "2025-10-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 543,
+    "fields": {
+      "book": 5,
+      "quantity": 26,
+      "sale_date": "2025-10-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 544,
+    "fields": {
+      "book": 49,
+      "quantity": 3,
+      "sale_date": "2025-10-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 545,
+    "fields": {
+      "book": 5,
+      "quantity": 17,
+      "sale_date": "2025-10-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 546,
+    "fields": {
+      "book": 6,
+      "quantity": 6,
+      "sale_date": "2025-10-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 547,
+    "fields": {
+      "book": 12,
+      "quantity": 12,
+      "sale_date": "2025-10-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 548,
+    "fields": {
+      "book": 14,
+      "quantity": 16,
+      "sale_date": "2025-10-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 549,
+    "fields": {
+      "book": 30,
+      "quantity": 5,
+      "sale_date": "2025-10-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 550,
+    "fields": {
+      "book": 5,
+      "quantity": 21,
+      "sale_date": "2025-10-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 551,
+    "fields": {
+      "book": 36,
+      "quantity": 8,
+      "sale_date": "2025-10-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 552,
+    "fields": {
+      "book": 1,
+      "quantity": 23,
+      "sale_date": "2025-10-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 553,
+    "fields": {
+      "book": 1,
+      "quantity": 13,
+      "sale_date": "2025-10-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 554,
+    "fields": {
+      "book": 1,
+      "quantity": 12,
+      "sale_date": "2025-10-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 555,
+    "fields": {
+      "book": 38,
+      "quantity": 4,
+      "sale_date": "2025-10-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 556,
+    "fields": {
+      "book": 3,
+      "quantity": 25,
+      "sale_date": "2025-10-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 557,
+    "fields": {
+      "book": 4,
+      "quantity": 12,
+      "sale_date": "2025-10-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 558,
+    "fields": {
+      "book": 27,
+      "quantity": 12,
+      "sale_date": "2025-10-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 559,
+    "fields": {
+      "book": 17,
+      "quantity": 6,
+      "sale_date": "2025-10-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 560,
+    "fields": {
+      "book": 35,
+      "quantity": 4,
+      "sale_date": "2025-10-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 561,
+    "fields": {
+      "book": 4,
+      "quantity": 17,
+      "sale_date": "2025-10-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 562,
+    "fields": {
+      "book": 24,
+      "quantity": 8,
+      "sale_date": "2025-10-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 563,
+    "fields": {
+      "book": 1,
+      "quantity": 23,
+      "sale_date": "2025-10-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 564,
+    "fields": {
+      "book": 3,
+      "quantity": 21,
+      "sale_date": "2025-10-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 565,
+    "fields": {
+      "book": 2,
+      "quantity": 12,
+      "sale_date": "2025-10-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 566,
+    "fields": {
+      "book": 3,
+      "quantity": 23,
+      "sale_date": "2025-10-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 567,
+    "fields": {
+      "book": 5,
+      "quantity": 23,
+      "sale_date": "2025-10-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 568,
+    "fields": {
+      "book": 12,
+      "quantity": 6,
+      "sale_date": "2025-10-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 569,
+    "fields": {
+      "book": 17,
+      "quantity": 6,
+      "sale_date": "2025-10-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 570,
+    "fields": {
+      "book": 18,
+      "quantity": 13,
+      "sale_date": "2025-10-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 571,
+    "fields": {
+      "book": 1,
+      "quantity": 12,
+      "sale_date": "2025-10-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 572,
+    "fields": {
+      "book": 48,
+      "quantity": 6,
+      "sale_date": "2025-10-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 573,
+    "fields": {
+      "book": 4,
+      "quantity": 25,
+      "sale_date": "2025-10-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 574,
+    "fields": {
+      "book": 28,
+      "quantity": 8,
+      "sale_date": "2025-10-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 575,
+    "fields": {
+      "book": 4,
+      "quantity": 14,
+      "sale_date": "2025-10-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 576,
+    "fields": {
+      "book": 22,
+      "quantity": 6,
+      "sale_date": "2025-10-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 577,
+    "fields": {
+      "book": 3,
+      "quantity": 13,
+      "sale_date": "2025-10-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 578,
+    "fields": {
+      "book": 29,
+      "quantity": 9,
+      "sale_date": "2025-10-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 579,
+    "fields": {
+      "book": 28,
+      "quantity": 3,
+      "sale_date": "2025-10-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 580,
+    "fields": {
+      "book": 11,
+      "quantity": 16,
+      "sale_date": "2025-10-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 581,
+    "fields": {
+      "book": 16,
+      "quantity": 9,
+      "sale_date": "2025-10-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 582,
+    "fields": {
+      "book": 4,
+      "quantity": 21,
+      "sale_date": "2025-11-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 583,
+    "fields": {
+      "book": 23,
+      "quantity": 10,
+      "sale_date": "2025-11-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 584,
+    "fields": {
+      "book": 30,
+      "quantity": 5,
+      "sale_date": "2025-11-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 585,
+    "fields": {
+      "book": 32,
+      "quantity": 13,
+      "sale_date": "2025-11-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 586,
+    "fields": {
+      "book": 43,
+      "quantity": 2,
+      "sale_date": "2025-11-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 587,
+    "fields": {
+      "book": 16,
+      "quantity": 10,
+      "sale_date": "2025-11-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 588,
+    "fields": {
+      "book": 33,
+      "quantity": 16,
+      "sale_date": "2025-11-03"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 589,
+    "fields": {
+      "book": 1,
+      "quantity": 18,
+      "sale_date": "2025-11-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 590,
+    "fields": {
+      "book": 15,
+      "quantity": 21,
+      "sale_date": "2025-11-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 591,
+    "fields": {
+      "book": 20,
+      "quantity": 8,
+      "sale_date": "2025-11-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 592,
+    "fields": {
+      "book": 5,
+      "quantity": 27,
+      "sale_date": "2025-11-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 593,
+    "fields": {
+      "book": 6,
+      "quantity": 16,
+      "sale_date": "2025-11-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 594,
+    "fields": {
+      "book": 3,
+      "quantity": 24,
+      "sale_date": "2025-11-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 595,
+    "fields": {
+      "book": 18,
+      "quantity": 16,
+      "sale_date": "2025-11-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 596,
+    "fields": {
+      "book": 20,
+      "quantity": 6,
+      "sale_date": "2025-11-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 597,
+    "fields": {
+      "book": 48,
+      "quantity": 3,
+      "sale_date": "2025-11-06"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 598,
+    "fields": {
+      "book": 3,
+      "quantity": 32,
+      "sale_date": "2025-11-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 599,
+    "fields": {
+      "book": 24,
+      "quantity": 10,
+      "sale_date": "2025-11-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 600,
+    "fields": {
+      "book": 46,
+      "quantity": 10,
+      "sale_date": "2025-11-07"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 601,
+    "fields": {
+      "book": 1,
+      "quantity": 13,
+      "sale_date": "2025-11-08"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 602,
+    "fields": {
+      "book": 1,
+      "quantity": 16,
+      "sale_date": "2025-11-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 603,
+    "fields": {
+      "book": 17,
+      "quantity": 11,
+      "sale_date": "2025-11-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 604,
+    "fields": {
+      "book": 21,
+      "quantity": 5,
+      "sale_date": "2025-11-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 605,
+    "fields": {
+      "book": 4,
+      "quantity": 30,
+      "sale_date": "2025-11-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 606,
+    "fields": {
+      "book": 6,
+      "quantity": 19,
+      "sale_date": "2025-11-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 607,
+    "fields": {
+      "book": 1,
+      "quantity": 27,
+      "sale_date": "2025-11-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 608,
+    "fields": {
+      "book": 11,
+      "quantity": 10,
+      "sale_date": "2025-11-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 609,
+    "fields": {
+      "book": 7,
+      "quantity": 13,
+      "sale_date": "2025-11-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 610,
+    "fields": {
+      "book": 28,
+      "quantity": 14,
+      "sale_date": "2025-11-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 611,
+    "fields": {
+      "book": 12,
+      "quantity": 13,
+      "sale_date": "2025-11-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 612,
+    "fields": {
+      "book": 15,
+      "quantity": 16,
+      "sale_date": "2025-11-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 613,
+    "fields": {
+      "book": 29,
+      "quantity": 8,
+      "sale_date": "2025-11-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 614,
+    "fields": {
+      "book": 39,
+      "quantity": 6,
+      "sale_date": "2025-11-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 615,
+    "fields": {
+      "book": 15,
+      "quantity": 14,
+      "sale_date": "2025-11-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 616,
+    "fields": {
+      "book": 1,
+      "quantity": 21,
+      "sale_date": "2025-11-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 617,
+    "fields": {
+      "book": 21,
+      "quantity": 10,
+      "sale_date": "2025-11-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 618,
+    "fields": {
+      "book": 6,
+      "quantity": 14,
+      "sale_date": "2025-11-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 619,
+    "fields": {
+      "book": 9,
+      "quantity": 18,
+      "sale_date": "2025-11-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 620,
+    "fields": {
+      "book": 22,
+      "quantity": 6,
+      "sale_date": "2025-11-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 621,
+    "fields": {
+      "book": 42,
+      "quantity": 3,
+      "sale_date": "2025-11-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 622,
+    "fields": {
+      "book": 4,
+      "quantity": 18,
+      "sale_date": "2025-11-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 623,
+    "fields": {
+      "book": 9,
+      "quantity": 21,
+      "sale_date": "2025-11-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 624,
+    "fields": {
+      "book": 19,
+      "quantity": 3,
+      "sale_date": "2025-11-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 625,
+    "fields": {
+      "book": 24,
+      "quantity": 5,
+      "sale_date": "2025-11-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 626,
+    "fields": {
+      "book": 50,
+      "quantity": 3,
+      "sale_date": "2025-11-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 627,
+    "fields": {
+      "book": 26,
+      "quantity": 16,
+      "sale_date": "2025-11-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 628,
+    "fields": {
+      "book": 30,
+      "quantity": 13,
+      "sale_date": "2025-11-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 629,
+    "fields": {
+      "book": 32,
+      "quantity": 8,
+      "sale_date": "2025-11-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 630,
+    "fields": {
+      "book": 3,
+      "quantity": 21,
+      "sale_date": "2025-11-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 631,
+    "fields": {
+      "book": 12,
+      "quantity": 14,
+      "sale_date": "2025-11-23"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 632,
+    "fields": {
+      "book": 2,
+      "quantity": 18,
+      "sale_date": "2025-11-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 633,
+    "fields": {
+      "book": 34,
+      "quantity": 6,
+      "sale_date": "2025-11-25"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 634,
+    "fields": {
+      "book": 3,
+      "quantity": 30,
+      "sale_date": "2025-11-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 635,
+    "fields": {
+      "book": 34,
+      "quantity": 6,
+      "sale_date": "2025-11-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 636,
+    "fields": {
+      "book": 47,
+      "quantity": 10,
+      "sale_date": "2025-11-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 637,
+    "fields": {
+      "book": 2,
+      "quantity": 16,
+      "sale_date": "2025-11-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 638,
+    "fields": {
+      "book": 5,
+      "quantity": 21,
+      "sale_date": "2025-11-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 639,
+    "fields": {
+      "book": 9,
+      "quantity": 21,
+      "sale_date": "2025-11-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 640,
+    "fields": {
+      "book": 25,
+      "quantity": 13,
+      "sale_date": "2025-11-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 641,
+    "fields": {
+      "book": 45,
+      "quantity": 10,
+      "sale_date": "2025-11-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 642,
+    "fields": {
+      "book": 2,
+      "quantity": 36,
+      "sale_date": "2025-12-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 643,
+    "fields": {
+      "book": 5,
+      "quantity": 32,
+      "sale_date": "2025-12-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 644,
+    "fields": {
+      "book": 21,
+      "quantity": 9,
+      "sale_date": "2025-12-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 645,
+    "fields": {
+      "book": 28,
+      "quantity": 7,
+      "sale_date": "2025-12-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 646,
+    "fields": {
+      "book": 29,
+      "quantity": 7,
+      "sale_date": "2025-12-01"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 647,
+    "fields": {
+      "book": 10,
+      "quantity": 23,
+      "sale_date": "2025-12-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 648,
+    "fields": {
+      "book": 30,
+      "quantity": 4,
+      "sale_date": "2025-12-02"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 649,
+    "fields": {
+      "book": 31,
+      "quantity": 14,
+      "sale_date": "2025-12-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 650,
+    "fields": {
+      "book": 39,
+      "quantity": 4,
+      "sale_date": "2025-12-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 651,
+    "fields": {
+      "book": 43,
+      "quantity": 4,
+      "sale_date": "2025-12-04"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 652,
+    "fields": {
+      "book": 2,
+      "quantity": 32,
+      "sale_date": "2025-12-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 653,
+    "fields": {
+      "book": 47,
+      "quantity": 2,
+      "sale_date": "2025-12-05"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 654,
+    "fields": {
+      "book": 4,
+      "quantity": 32,
+      "sale_date": "2025-12-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 655,
+    "fields": {
+      "book": 16,
+      "quantity": 7,
+      "sale_date": "2025-12-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 656,
+    "fields": {
+      "book": 30,
+      "quantity": 4,
+      "sale_date": "2025-12-09"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 657,
+    "fields": {
+      "book": 7,
+      "quantity": 20,
+      "sale_date": "2025-12-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 658,
+    "fields": {
+      "book": 24,
+      "quantity": 18,
+      "sale_date": "2025-12-10"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 659,
+    "fields": {
+      "book": 8,
+      "quantity": 9,
+      "sale_date": "2025-12-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 660,
+    "fields": {
+      "book": 12,
+      "quantity": 23,
+      "sale_date": "2025-12-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 661,
+    "fields": {
+      "book": 13,
+      "quantity": 11,
+      "sale_date": "2025-12-11"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 662,
+    "fields": {
+      "book": 21,
+      "quantity": 18,
+      "sale_date": "2025-12-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 663,
+    "fields": {
+      "book": 22,
+      "quantity": 5,
+      "sale_date": "2025-12-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 664,
+    "fields": {
+      "book": 29,
+      "quantity": 4,
+      "sale_date": "2025-12-12"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 665,
+    "fields": {
+      "book": 1,
+      "quantity": 14,
+      "sale_date": "2025-12-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 666,
+    "fields": {
+      "book": 3,
+      "quantity": 23,
+      "sale_date": "2025-12-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 667,
+    "fields": {
+      "book": 3,
+      "quantity": 31,
+      "sale_date": "2025-12-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 668,
+    "fields": {
+      "book": 5,
+      "quantity": 32,
+      "sale_date": "2025-12-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 669,
+    "fields": {
+      "book": 6,
+      "quantity": 7,
+      "sale_date": "2025-12-13"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 670,
+    "fields": {
+      "book": 12,
+      "quantity": 11,
+      "sale_date": "2025-12-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 671,
+    "fields": {
+      "book": 19,
+      "quantity": 14,
+      "sale_date": "2025-12-14"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 672,
+    "fields": {
+      "book": 3,
+      "quantity": 22,
+      "sale_date": "2025-12-15"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 673,
+    "fields": {
+      "book": 1,
+      "quantity": 31,
+      "sale_date": "2025-12-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 674,
+    "fields": {
+      "book": 19,
+      "quantity": 4,
+      "sale_date": "2025-12-16"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 675,
+    "fields": {
+      "book": 5,
+      "quantity": 36,
+      "sale_date": "2025-12-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 676,
+    "fields": {
+      "book": 11,
+      "quantity": 25,
+      "sale_date": "2025-12-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 677,
+    "fields": {
+      "book": 22,
+      "quantity": 7,
+      "sale_date": "2025-12-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 678,
+    "fields": {
+      "book": 33,
+      "quantity": 5,
+      "sale_date": "2025-12-17"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 679,
+    "fields": {
+      "book": 4,
+      "quantity": 32,
+      "sale_date": "2025-12-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 680,
+    "fields": {
+      "book": 31,
+      "quantity": 7,
+      "sale_date": "2025-12-18"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 681,
+    "fields": {
+      "book": 1,
+      "quantity": 29,
+      "sale_date": "2025-12-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 682,
+    "fields": {
+      "book": 10,
+      "quantity": 20,
+      "sale_date": "2025-12-19"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 683,
+    "fields": {
+      "book": 3,
+      "quantity": 36,
+      "sale_date": "2025-12-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 684,
+    "fields": {
+      "book": 33,
+      "quantity": 14,
+      "sale_date": "2025-12-20"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 685,
+    "fields": {
+      "book": 4,
+      "quantity": 34,
+      "sale_date": "2025-12-21"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 686,
+    "fields": {
+      "book": 2,
+      "quantity": 20,
+      "sale_date": "2025-12-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 687,
+    "fields": {
+      "book": 4,
+      "quantity": 16,
+      "sale_date": "2025-12-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 688,
+    "fields": {
+      "book": 25,
+      "quantity": 16,
+      "sale_date": "2025-12-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 689,
+    "fields": {
+      "book": 32,
+      "quantity": 11,
+      "sale_date": "2025-12-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 690,
+    "fields": {
+      "book": 32,
+      "quantity": 18,
+      "sale_date": "2025-12-22"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 691,
+    "fields": {
+      "book": 6,
+      "quantity": 13,
+      "sale_date": "2025-12-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 692,
+    "fields": {
+      "book": 8,
+      "quantity": 22,
+      "sale_date": "2025-12-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 693,
+    "fields": {
+      "book": 9,
+      "quantity": 18,
+      "sale_date": "2025-12-24"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 694,
+    "fields": {
+      "book": 6,
+      "quantity": 25,
+      "sale_date": "2025-12-26"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 695,
+    "fields": {
+      "book": 1,
+      "quantity": 22,
+      "sale_date": "2025-12-27"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 696,
+    "fields": {
+      "book": 7,
+      "quantity": 25,
+      "sale_date": "2025-12-28"
+    }
+  },
+  {
+    "model": "book_sales.booksale",
+    "pk": 697,
+    "fields": {
+      "book": 13,
+      "quantity": 11,
+      "sale_date": "2025-12-28"
+    }
+  }
+]

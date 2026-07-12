@@ -1,0 +1,402 @@
+[
+	{
+		"model": "book_sales.book",
+		"pk": 1,
+		"fields": {
+			"title": "To Kill a Mockingbird",
+			"author": "Harper Lee"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 2,
+		"fields": {
+			"title": "1984",
+			"author": "George Orwell"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 3,
+		"fields": {
+			"title": "Pride and Prejudice",
+			"author": "Jane Austen"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 4,
+		"fields": {
+			"title": "The Great Gatsby",
+			"author": "F. Scott Fitzgerald"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 5,
+		"fields": {
+			"title": "The Catcher in the Rye",
+			"author": "J. D. Salinger"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 6,
+		"fields": {
+			"title": "The Hobbit",
+			"author": "J. R. R. Tolkien"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 7,
+		"fields": {
+			"title": "The Lord of the Rings",
+			"author": "J. R. R. Tolkien"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 8,
+		"fields": {
+			"title": "Harry Potter and the Philosopher's Stone",
+			"author": "J. K. Rowling"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 9,
+		"fields": {
+			"title": "Harry Potter and the Chamber of Secrets",
+			"author": "J. K. Rowling"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 10,
+		"fields": {
+			"title": "The Alchemist",
+			"author": "Paulo Coelho"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 11,
+		"fields": {
+			"title": "The Kite Runner",
+			"author": "Khaled Hosseini"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 12,
+		"fields": {
+			"title": "A Thousand Splendid Suns",
+			"author": "Khaled Hosseini"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 13,
+		"fields": {
+			"title": "The Book Thief",
+			"author": "Markus Zusak"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 14,
+		"fields": {
+			"title": "The Fault in Our Stars",
+			"author": "John Green"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 15,
+		"fields": {
+			"title": "The Chronicles of Narnia",
+			"author": "C. S. Lewis"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 16,
+		"fields": {
+			"title": "Life of Pi",
+			"author": "Yann Martel"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 17,
+		"fields": {
+			"title": "The Da Vinci Code",
+			"author": "Dan Brown"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 18,
+		"fields": {
+			"title": "Angels & Demons",
+			"author": "Dan Brown"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 19,
+		"fields": {
+			"title": "Gone Girl",
+			"author": "Gillian Flynn"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 20,
+		"fields": {
+			"title": "The Girl with the Dragon Tattoo",
+			"author": "Stieg Larsson"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 21,
+		"fields": {
+			"title": "The Silent Patient",
+			"author": "Alex Michaelides"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 22,
+		"fields": {
+			"title": "Where the Crawdads Sing",
+			"author": "Delia Owens"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 23,
+		"fields": {
+			"title": "The Seven Husbands of Evelyn Hugo",
+			"author": "Taylor Jenkins Reid"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 24,
+		"fields": {
+			"title": "The Midnight Library",
+			"author": "Matt Haig"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 25,
+		"fields": {
+			"title": "Normal People",
+			"author": "Sally Rooney"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 26,
+		"fields": {
+			"title": "Little Women",
+			"author": "Louisa May Alcott"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 27,
+		"fields": {
+			"title": "Jane Eyre",
+			"author": "Charlotte Brontë"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 28,
+		"fields": {
+			"title": "Wuthering Heights",
+			"author": "Emily Brontë"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 29,
+		"fields": {
+			"title": "The Picture of Dorian Gray",
+			"author": "Oscar Wilde"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 30,
+		"fields": {
+			"title": "Dracula",
+			"author": "Bram Stoker"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 31,
+		"fields": {
+			"title": "Frankenstein",
+			"author": "Mary Shelley"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 32,
+		"fields": {
+			"title": "The Adventures of Sherlock Holmes",
+			"author": "Arthur Conan Doyle"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 33,
+		"fields": {
+			"title": "Murder on the Orient Express",
+			"author": "Agatha Christie"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 34,
+		"fields": {
+			"title": "And Then There Were None",
+			"author": "Agatha Christie"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 35,
+		"fields": {
+			"title": "The Secret Garden",
+			"author": "Frances Hodgson Burnett"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 36,
+		"fields": {
+			"title": "Anne of Green Gables",
+			"author": "L. M. Montgomery"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 37,
+		"fields": {
+			"title": "The Little Prince",
+			"author": "Antoine de Saint-Exupéry"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 38,
+		"fields": {
+			"title": "The Chronicles of Prydain",
+			"author": "Lloyd Alexander"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 39,
+		"fields": {
+			"title": "Dune",
+			"author": "Frank Herbert"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 40,
+		"fields": {
+			"title": "The Martian",
+			"author": "Andy Weir"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 41,
+		"fields": {
+			"title": "The Hunger Games",
+			"author": "Suzanne Collins"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 42,
+		"fields": {
+			"title": "Catching Fire",
+			"author": "Suzanne Collins"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 43,
+		"fields": {
+			"title": "Mockingjay",
+			"author": "Suzanne Collins"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 44,
+		"fields": {
+			"title": "The Giver",
+			"author": "Lois Lowry"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 45,
+		"fields": {
+			"title": "The Road",
+			"author": "Cormac McCarthy"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 46,
+		"fields": {
+			"title": "Beloved",
+			"author": "Toni Morrison"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 47,
+		"fields": {
+			"title": "The Color Purple",
+			"author": "Alice Walker"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 48,
+		"fields": {
+			"title": "One Hundred Years of Solitude",
+			"author": "Gabriel García Márquez"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 49,
+		"fields": {
+			"title": "The Wind-Up Bird Chronicle",
+			"author": "Haruki Murakami"
+		}
+	},
+	{
+		"model": "book_sales.book",
+		"pk": 50,
+		"fields": {
+			"title": "The Night Circus",
+			"author": "Erin Morgenstern"
+		}
+	}
+]
